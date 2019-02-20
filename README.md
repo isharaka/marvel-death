@@ -36,6 +36,7 @@ Please take a moment to complete the class survey at: null.
 #### Review materials & visualization
 - [Review videos](https://www.youtube.com/playlist?list=PLg7s6cbtAD16Pgp6WIVfX4VsGI-xyWkMz)
 - [GitSchool - Visualizing Git](http://git-school.github.io/visualizing-git/)
+  - [Source Code for the above](https://github.com/git-school/visualizing-git)
 - [LearnGitBranching](http://learngitbranching.js.org/?NODEMO)
 
 #### GitHub Documentation and Help
