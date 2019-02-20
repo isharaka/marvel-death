@@ -13,10 +13,14 @@
 - How will you be using GitHub in your organization, or within your teams? Plans for Open Source or Innersource?
 - What's the deal with Markdown?
 
-**The GitHub Flow** (10 minutes)
+**The GitHub Flow + Working Locally** (10 minutes)
 
 - Overview the GitHub Flow as a concept (use a metaphor!)
-- Hands on: Demo the GitHub flow in 5-10 minutes.
+- Hands on: Demo the GitHub flow through pushing a commit in 5-10 minutes.
+- What's my favorite git command?
+- Hands-on: How do you navigate the command line?
+- Concept: Explain the two stage commit? Why's it valuable?
+- Hands-on: Navigate to a repo and add a commit.
 
 **Local Git Configs**
 
@@ -26,14 +30,7 @@
 - Hands-on: Unset your user name from your git config.
 - Hands-on: Add your username to your git config.
 
-**Working Locally**(10 minutes)
-
-- What's my favorite git command?
-- Hands-on: How do you navigate the command line?
-- Concept: Explain the two stage commit? Why's it valuable?
-- Hands-on: Navigate to a repo and add a commit.
-
-**Collaborating on Code** (10 minutes)
+**Collaborating on Code** 
 - What's a Pull Request? When should you open one?
 - Describe a good pull request OP.
 - How will code review work on your team?
